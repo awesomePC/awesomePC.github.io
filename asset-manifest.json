@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bc8131.css",
+    "main.js": "/static/js/main.63429dcc.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/nft-marketplace.png": "/static/media/nft-marketplace.93e8bc2aa7aa7665d393.png",
+    "static/media/neatleaf.png": "/static/media/neatleaf.4e4793d41cb6025b92e2.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.e2416015677e3e1ae76d.png",
+    "static/media/panoraven.png": "/static/media/panoraven.711a4b51c481d8ec4d1d.png",
+    "static/media/Layton_Hart.pdf": "/static/media/Layton_Hart.91f9eee9118751a25836.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/affiliate.png": "/static/media/affiliate.273b604d5f484a511742.png",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
+    "main.63429dcc.js.map": "/static/js/main.63429dcc.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bc8131.css",
+    "static/js/main.63429dcc.js"
+  ]
+}
